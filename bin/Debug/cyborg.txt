@@ -1,0 +1,7 @@
+A,24,33,Paddles,Absorbs B C
+
+B,13,42,Oozes,Envelops A
+
+C,6,7,Paddles,Envelops A B
+
+D,21,6,Oozes,Absorbs C

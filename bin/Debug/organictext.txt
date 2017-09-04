@@ -1,0 +1,7 @@
+N,11,10,Invades,Absorbs K G
+
+K,22,12,Hides,Envelops G
+
+F,7,7,Invades,Envelops N K
+
+G,22,7,Hides,Absorbs N
