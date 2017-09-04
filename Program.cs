@@ -1,5 +1,5 @@
 ﻿/*
- Name: Zaid Rashid
+ Name: Zed Trzcinski
  Assign 3
  Date: 11/15/2016
  Professor: Peter Myers
